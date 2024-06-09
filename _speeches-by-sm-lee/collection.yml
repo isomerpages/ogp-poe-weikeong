@@ -1,5 +1,5 @@
 collections:
-  speeches:
+  speeches-by-sm-lee:
     output: true
     order:
       - Speeches.md
