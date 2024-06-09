@@ -1,0 +1,4 @@
+collections:
+  speeches:
+    output: true
+    order: []
