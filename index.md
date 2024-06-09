@@ -8,9 +8,9 @@ notification: Dont say bo jio
 sections:
   - hero:
       title: Wei Keong
-      subtitle: I love to eat
+      subtitle: I love eat
       background: /images/hero-banner.png
-      button: Contact Us
+      button: My LinkedIn
       url: https://www.linkedin.com/in/wkgan/
       key_highlights:
         - title: Singapore Cuisine
