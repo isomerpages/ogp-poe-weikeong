@@ -11,7 +11,7 @@ sections:
       subtitle: I love to eat
       background: /images/hero-banner.png
       button: Contact Us
-      url: /contact-us/
+      url: https://www.linkedin.com/in/wkgan/
       key_highlights:
         - title: Singapore Cuisine
           description: Important highlight A is important
