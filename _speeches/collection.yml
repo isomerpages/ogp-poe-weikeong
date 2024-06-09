@@ -1,4 +1,5 @@
 collections:
   speeches:
     output: true
-    order: []
+    order:
+      - Speeches.md
