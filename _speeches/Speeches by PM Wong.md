@@ -55,8 +55,6 @@ description: Lawrence Wong’s first speech as Singapore’s Prime Minister at
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/02wyKGU7F6Y?si=k6RmQwU_0eDZttSq"></iframe>
 </div>
-<p><strong><u>PM Lawrence Wong’s Keynote Speech at IPEF Clean Economy Investor Forum</u></strong>
-</p>
 <p></p>
 <p></p>
 <p></p>
