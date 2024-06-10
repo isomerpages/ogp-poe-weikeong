@@ -5,6 +5,20 @@ variant: tiptap
 description: Lawrence Wong’s first speech as Singapore’s Prime Minister at
   swearing-in ceremony
 ---
+<blockquote>
+<h4><strong>June 2024</strong></h4>
+</blockquote>
+<p><strong><u>PM Lawrence Wong’s Keynote Speech at IPEF Clean Economy Investor Forum</u></strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6K0l4KUPtI0?si=5YGaigExDOkTR-XS"></iframe>
+</div>
+<p></p>
+<p></p>
+<p></p>
+<blockquote>
+<h4><strong>May 2024</strong></h4>
+</blockquote>
 <p><strong><u>Lawrence Wong’s first speech as Singapore’s Prime Minister at swearing-in ceremony</u></strong>
 </p>
 <div class="iframe-wrapper">
@@ -12,9 +26,6 @@ description: Lawrence Wong’s first speech as Singapore’s Prime Minister at
 </div>
 <p><strong><u>PM Lawrence Wong’s Keynote Speech at IPEF Clean Economy Investor Forum</u></strong>
 </p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6K0l4KUPtI0?si=5YGaigExDOkTR-XS"></iframe>
-</div>
 <p></p>
 <p></p>
 <p></p>
