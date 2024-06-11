@@ -60,7 +60,7 @@ sections:
       id: textcards
       description: Recommendation
       cards:
-        - title: "Westgate & JEM "
+        - title: Westgate & JEM
           description: Dozens of F&B options across two interconnected malls. From fast
             food to casual
           linktext: Learn more
