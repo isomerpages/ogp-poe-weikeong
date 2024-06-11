@@ -4,7 +4,7 @@ title: Wei Keong's Site
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: "Warning: Do not browse when hungry"
 sections:
   - hero:
       title: Wei Keong
@@ -15,19 +15,7 @@ sections:
       key_highlights:
         - title: Singapore Cuisine
           description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+          url: ""
   - announcements:
       title: Three amazing food reccomondation
       id: announcements
