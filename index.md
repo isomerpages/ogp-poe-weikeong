@@ -46,9 +46,12 @@ sections:
             friendly, my go to stall to satisfy my chicekn rice craving.
           link_text: ""
           link_url: ""
-        - title: New Announcement
-          date: 11 June 2024
-          announcement: Announcement content
+        - title: Siang Kee Seafood Restaurant
+          date: 25 May 2024
+          announcement: Seafood restaurant old school hawker style. Highly recommend their
+            butter crayfish which is coated in aromatic butter and crispy
+            cereal. Crayfish meat is so fresh, juicy and tender that it will
+            send you to epicurean heaven.
           link_text: ""
           link_url: ""
   - textcards:
