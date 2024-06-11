@@ -39,9 +39,11 @@ sections:
             melt in your mouth meat
           link_text: ""
           link_url: ""
-        - title: New Announcement
+        - title: You He Roasted Delights
           date: 11 June 2024
-          announcement: Announcement content
+          announcement: No Frills roasted meat. Highly recommened the roasted chicken rice
+            which is plump and succlent. Best part is the hawkers are really
+            friendly, my go to stall to satisfy my chicekn rice craving.
           link_text: ""
           link_url: ""
         - title: New Announcement
