@@ -25,23 +25,27 @@ sections:
       announcement_items:
         - title: You He Roasted Delights
           date: 11 June 2024
-          announcement: No Frills roasted meat. Highly recommened the roasted chicken rice
-            which is plump and succlent. Best part is the hawkers are really
-            friendly, my go to stall to satisfy my chicekn rice craving.
+          announcement: Simple, no-frills roasted meats. Highly recommended is the roasted
+            chicken rice—plump and succulent. The best part is the hawkers are
+            really friendly, making it my go-to stall to satisfy my chicken rice
+            cravings.
           link_text: ""
           link_url: ""
         - title: Siang Kee Seafood Restaurant
           date: 25 May 2024
-          announcement: Seafood restaurant old school hawker style. Highly recommend their
-            butter crayfish which is coated in aromatic butter and crispy
-            cereal. Crayfish meat is so fresh, juicy and tender that it will
-            send you to epicurean heaven.
+          announcement: >-
+            
+            This seafood restaurant captures the charm of old-school hawker
+            style. Highly recommended is their butter crayfish, which is
+            enveloped in fragrant butter and crunchy cereal. The crayfish meat
+            is incredibly fresh, juicy, and tender, promising an epicurean
+            delight.
           link_text: ""
           link_url: ""
         - title: London Fat Duck
           date: 11 May 2024
-          announcement: Waguy of ducks. Duck cooked to perfection with Crispy skin and
-            melt in your mouth meat
+          announcement: '"Wagyu of ducks" cooked to perfection with crispy skin and meat
+            that melts in your mouth.'
           link_text: ""
           link_url: ""
   - textcards:
