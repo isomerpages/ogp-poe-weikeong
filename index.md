@@ -4,12 +4,12 @@ title: Wei Keong's Site
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Dont say bo jio
+notification: ""
 sections:
   - hero:
       title: Wei Keong
       subtitle: I love to eat
-      background: /images/hero-banner.png
+      background: /images/singapore_hainanese_roasted_chicken_rice.jpg
       button: My LinkedIn
       url: https://www.linkedin.com/in/wkgan/
       key_highlights:
