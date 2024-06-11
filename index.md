@@ -28,4 +28,43 @@ sections:
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
+  - announcements:
+      title: Announcements
+      id: announcements
+      subtitle: Add a list of announcements with dates
+      announcement_items:
+        - title: London Fat Duck
+          date: 11 May 2024
+          announcement: Waguy of ducks. Duck cooked to perfection with Crispy skin and
+            melt in your mouth meat
+          link_text: ""
+          link_url: ""
+        - title: New Announcement
+          date: 11 June 2024
+          announcement: Announcement content
+          link_text: ""
+          link_url: ""
+        - title: New Announcement
+          date: 11 June 2024
+          announcement: Announcement content
+          link_text: ""
+          link_url: ""
+  - textcards:
+      title: Text Cards
+      subtitle: Add informational text
+      id: textcards
+      description: Text card description
+      cards:
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
 ---
