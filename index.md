@@ -61,8 +61,9 @@ sections:
       description: Recommendation
       cards:
         - title: Westgate & JEM Shopping Malls
-          description: Dozens of F&B options across two interconnected malls. From fast
-            food to casual
+          description: |-
+            Fast food to casual dining, 
+            100+ restaurants across 2 interconnected malls
           linktext: Google Map
           url: https://maps.app.goo.gl/SxU3ycxmymqL6KqD8
         - title: Beauty World Food Centre
