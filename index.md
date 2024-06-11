@@ -8,7 +8,7 @@ notification: Dont say bo jio
 sections:
   - hero:
       title: Wei Keong
-      subtitle: I love eat
+      subtitle: I love to eat
       background: /images/hero-banner.png
       button: My LinkedIn
       url: https://www.linkedin.com/in/wkgan/
