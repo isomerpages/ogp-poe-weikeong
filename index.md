@@ -63,16 +63,16 @@ sections:
         - title: Westgate & JEM Shopping Malls
           description: Dozens of F&B options across two interconnected malls. From fast
             food to casual
-          linktext: Learn more
+          linktext: Google Map
           url: https://maps.app.goo.gl/SxU3ycxmymqL6KqD8
         - title: Beauty World Food Centre
           description: Classic Hawker Centre with Chicken Rice, Satay Bee Hoon, Nasi Lemak
             and more!
-          linktext: Learn more
-          url: ""
+          linktext: Google Map
+          url: https://maps.app.goo.gl/g19BbrWJfD5i42YP6
         - title: Taman Sri Tebrau Hawker Centre
           description: Seafood restaurant to noodles and satay, culinary heaven with old
             school charm.
-          linktext: Learn more
-          url: ""
+          linktext: Google Map
+          url: https://maps.app.goo.gl/CsWKssfSWci87tnt7
 ---
