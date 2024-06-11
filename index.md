@@ -62,8 +62,8 @@ sections:
       cards:
         - title: Westgate & JEM Shopping Malls
           description: |-
-            Fast food to casual dining, 
-            100+ restaurants across 2 interconnected malls
+            2 interconnected malls with
+            100+ restaurants from fast food to casual dining
           linktext: Google Map
           url: https://maps.app.goo.gl/SxU3ycxmymqL6KqD8
         - title: Beauty World Food Centre
