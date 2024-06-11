@@ -8,7 +8,9 @@ notification: "Warning: Do not browse when hungry"
 sections:
   - hero:
       title: Wei Keong
-      subtitle: I love to eat
+      subtitle: I love chicken (rice). Besides being really delicious, it is a
+        versatile ingredient which is similar to one of my strengths, being
+        adaptable to changes!
       background: /images/singapore_hainanese_roasted_chicken_rice.jpg
       button: My LinkedIn
       url: https://www.linkedin.com/in/wkgan/
