@@ -29,16 +29,10 @@ sections:
       button: Button text
       url: /faq/
   - announcements:
-      title: Announcements
+      title: Three amazing food reccomondation
       id: announcements
-      subtitle: Add a list of announcements with dates
+      subtitle: wei keong's
       announcement_items:
-        - title: London Fat Duck
-          date: 11 May 2024
-          announcement: Waguy of ducks. Duck cooked to perfection with Crispy skin and
-            melt in your mouth meat
-          link_text: ""
-          link_url: ""
         - title: You He Roasted Delights
           date: 11 June 2024
           announcement: No Frills roasted meat. Highly recommened the roasted chicken rice
@@ -54,16 +48,25 @@ sections:
             send you to epicurean heaven.
           link_text: ""
           link_url: ""
+        - title: London Fat Duck
+          date: 11 May 2024
+          announcement: Waguy of ducks. Duck cooked to perfection with Crispy skin and
+            melt in your mouth meat
+          link_text: ""
+          link_url: ""
   - textcards:
-      title: Text Cards
-      subtitle: Add informational text
+      title: 3 Food Havens
+      subtitle: Wei Keong's
       id: textcards
-      description: Text card description
+      description: Recommendation
       cards:
-        - title: Card
-          description: Card description
+        - title: "Westgate & JEM "
+          description: Dozens of F&B options across two interconnected malls. From fast
+            food to casual
           linktext: Learn more
-          url: ""
+          url: <iframe loading="lazy" allowfullscreen="" style="border:0;" height="450"
+            width="600"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7391536531036!2d103.74073617496575!3d1.332646998654727!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da100f1e276d6f%3A0xebabee6918ce19b8!2sJem!5e0!3m2!1sen!2ssg!4v1718096905464!5m2!1sen!2ssg"></iframe>
         - title: Card
           description: Card description
           linktext: Learn more
