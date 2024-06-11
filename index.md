@@ -63,7 +63,7 @@ sections:
         - title: Westgate & JEM Shopping Malls
           description: |-
             2 interconnected malls with
-            100+ restaurants from fast food to casual dining
+            100+ restaurants from fast food to casual dining!
           linktext: Google Map
           url: https://maps.app.goo.gl/SxU3ycxmymqL6KqD8
         - title: Beauty World Food Centre
@@ -72,8 +72,8 @@ sections:
           linktext: Google Map
           url: https://maps.app.goo.gl/g19BbrWJfD5i42YP6
         - title: Taman Sri Tebrau Hawker Centre
-          description: Seafood restaurant to noodles and satay, culinary heaven with old
-            school charm.
+          description: Old-school hawker centre featuring seafood, satay, dumpling noodles
+            and more!
           linktext: Google Map
           url: https://maps.app.goo.gl/CsWKssfSWci87tnt7
 ---
