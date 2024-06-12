@@ -20,7 +20,7 @@ sections:
       id: announcements
       subtitle: wei keong's Recommendation
       announcement_items:
-        - title: You He Roasted Delights
+        - title: You He Charcoal Roasted Delights
           date: 11 June 2024
           announcement: Simple, no-frills roasted meats. Highly recommend their roasted
             chicken rice—plump and succulent. The best part is the hawkers are
