@@ -8,14 +8,13 @@ description: Lawrence Wong’s first speech as Singapore’s Prime Minister at
 <blockquote>
 <h4><strong>June 2024</strong></h4>
 </blockquote>
-<p><strong><u>PM Lawrence Wong’s Keynote Speech at IPEF Clean Economy Investor Forum</u></strong>
+<p><u>6 June 2024</u>
+</p>
+<p><strong>PM Lawrence Wong’s Keynote Speech at IPEF Clean Economy Investor Forum</strong>
 </p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6K0l4KUPtI0?si=5YGaigExDOkTR-XS"></iframe>
 </div>
-<p></p>
-<p></p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
