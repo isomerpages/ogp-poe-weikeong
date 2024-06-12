@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <blockquote>
-<h4>June 2024</h4>
+<h4><strong>June 2024</strong></h4>
 </blockquote>
 <p><u>5 June 2024</u>
 </p>
