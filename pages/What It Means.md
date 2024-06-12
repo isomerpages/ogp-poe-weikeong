@@ -12,8 +12,9 @@ description: List of Past and Present Prime Ministers of Singapore
 </blockquote>
 <p><strong><u>List of Past and Current Prime Ministers of Singapore</u></strong>
 </p>
-<table style="minWidth: 150px">
+<table style="minWidth: 175px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -32,7 +33,7 @@ description: List of Past and Present Prime Ministers of Singapore
 <th rowspan="1" colspan="2">
 <p>Years Served</p>
 </th>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="2">
 <p>Time in office</p>
 </th>
 </tr>
@@ -51,7 +52,7 @@ description: List of Past and Present Prime Ministers of Singapore
 <p></p>
 <p>2024 - Present</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p></p>
 <p>Currently Serving</p>
 </td>
@@ -71,7 +72,7 @@ description: List of Past and Present Prime Ministers of Singapore
 <p></p>
 <p>2004 - 2024</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p></p>
 <p>19 years</p>
 </td>
@@ -88,9 +89,9 @@ description: List of Past and Present Prime Ministers of Singapore
 </td>
 <td rowspan="1" colspan="2">
 <p></p>
-<p>1990 -2004</p>
+<p>1990 - 2004</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p></p>
 <p>13 years</p>
 </td>
@@ -109,7 +110,7 @@ description: List of Past and Present Prime Ministers of Singapore
 <p></p>
 <p>1959 - 1990</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p></p>
 <p>31 years</p>
 </td>
@@ -123,6 +124,9 @@ description: List of Past and Present Prime Ministers of Singapore
 <p></p>
 </td>
 <td rowspan="1" colspan="2">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
