@@ -9,9 +9,9 @@ notification: "Warning: Do not browse when hungry"
 sections:
   - hero:
       title: Hi! I'm Wei Keong
-      subtitle: I love chicken (rice). Besides being really delicious, it is a
-        versatile ingredient which is similar to one of my strengths, being
-        adaptable to changes!
+      subtitle: "I love chicken (rice). Not only is it incredibly delicious, but it's
+        also a versatile ingredient, much like one of my strengths: adaptability
+        to change!"
       background: /images/Chicken_Rice.jpg
       button: My LinkedIn
       url: https://www.linkedin.com/in/wkgan/
