@@ -9,6 +9,7 @@ description: List of Past and Present Prime Ministers of Singapore
 </blockquote>
 <p><u>List of Past and Current Prime Ministers of Singapore</u>
 </p>
+<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -19,7 +20,7 @@ description: List of Past and Present Prime Ministers of Singapore
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Potrait</p>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Name</p>
@@ -55,7 +56,7 @@ description: List of Past and Present Prime Ministers of Singapore
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Re_Mr_LEE_Hsien_Loong.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Screenshot_2024_06_12_224951.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -73,7 +74,6 @@ description: List of Past and Present Prime Ministers of Singapore
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Mr_GOH_Chok_Tong.png">
 </div>
@@ -93,7 +93,6 @@ description: List of Past and Present Prime Ministers of Singapore
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Lee_Kuan_Yew.png">
 </div>
@@ -114,8 +113,7 @@ description: List of Past and Present Prime Ministers of Singapore
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><sub>Credits: pmo.gov.sg</sub>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
