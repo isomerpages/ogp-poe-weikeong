@@ -18,7 +18,7 @@ description: ""
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Name</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Years Served</p>
@@ -32,6 +32,7 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <p>PM Lawrence Wong</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -66,6 +67,9 @@ description: ""
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+<p></p>
+<p></p>
 <p>Mr Goh Chok Tong</p>
 </td>
 <td rowspan="1" colspan="1">
