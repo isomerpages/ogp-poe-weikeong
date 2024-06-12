@@ -2,7 +2,7 @@ collections:
   test:
     output: true
     order:
-      - Terms of Use.md
-      - Report Vulnerability.md
-      - Privacy Statement.md
       - FAQ.md
+      - Report Vulnerability.md
+      - Terms of Use.md
+      - Privacy Statement.md
