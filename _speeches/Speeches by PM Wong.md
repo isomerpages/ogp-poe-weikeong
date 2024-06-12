@@ -50,12 +50,44 @@ description: Lawrence Wong’s first speech as Singapore’s Prime Minister at
 <blockquote>
 <h4><strong>May 2024</strong></h4>
 </blockquote>
-<p><strong><u>Lawrence Wong’s first speech as Singapore’s Prime Minister at swearing-in ceremony</u></strong>
+<p><u>15 May 2024</u>
+</p>
+<p><strong>Lawrence Wong’s first speech as Singapore’s Prime Minister at swearing-in ceremony</strong>
 </p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/02wyKGU7F6Y?si=k6RmQwU_0eDZttSq"></iframe>
 </div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p></p>
 <p></p>
