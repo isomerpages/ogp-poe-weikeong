@@ -5,8 +5,8 @@ variant: tiptap
 description: List of Past and Present Prime Ministers of Singapore
 ---
 <blockquote>
-<p><strong>Cool Fact: </strong>There has only been 4 Prime Ministers of Singapore
-over a period of 60 years</p>
+<p>Cool Fact: <strong>There has only been 4 Prime Ministers of Singapore over a period of 60 years</strong>
+</p>
 </blockquote>
 <p><u>List of Past and Current Prime Ministers of Singapore</u>
 </p>
