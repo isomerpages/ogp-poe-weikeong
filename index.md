@@ -38,11 +38,11 @@ sections:
           link_url: ""
         - title: London Fat Duck
           date: 11 May 2024
-          announcement: Imported from Ireland's Silver Hill Duck, which has been described
-            as "Wagyu of ducks", like well-marbled Japanese beef, they contatin
-            high fat content. Prepared by a skilled Chef, it is cooked to
-            perfection with crispy skin and succulent meat which melts in your
-            mouth.
+          announcement: Featuring Ireland's Silver Hill Duck, which has been described as
+            "Wagyu of ducks", like well-marbled Japanese beef, they contain high
+            fat content. Prepared by a skilled Chef, it is roasted to
+            perfection, unveiling a glistening and crispy skin wrapped around
+            succulent meat which melts in your mouth.
           link_text: ""
           link_url: ""
   - textcards:
