@@ -138,9 +138,8 @@ over a period of 60 years</p>
 when compared to countries such as Japan, the United Kingdom and Malaysia.</p>
 <p>Japan alone has seen 28 Prime Ministers within the same period, which
 is almost as many as Singapore, Malaysia and the United Kingdom combined!</p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -152,9 +151,6 @@ is almost as many as Singapore, Malaysia and the United Kingdom combined!</p>
 <th rowspan="1" colspan="1">
 <p>Number of Prime Ministers since 1960s</p>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -162,9 +158,6 @@ is almost as many as Singapore, Malaysia and the United Kingdom combined!</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -174,9 +167,6 @@ is almost as many as Singapore, Malaysia and the United Kingdom combined!</p>
 <td rowspan="1" colspan="1">
 <p>16</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -185,9 +175,6 @@ is almost as many as Singapore, Malaysia and the United Kingdom combined!</p>
 <td rowspan="1" colspan="1">
 <p>10</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -195,9 +182,6 @@ is almost as many as Singapore, Malaysia and the United Kingdom combined!</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>28</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
