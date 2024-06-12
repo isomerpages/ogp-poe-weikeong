@@ -22,10 +22,10 @@ sections:
       announcement_items:
         - title: You He Charcoal Roasted Delights
           date: 11 June 2024
-          announcement: Simple, no-frills roasted meats. Highly recommend their roasted
-            chicken rice—plump and succulent. The best part is the hawkers are
-            really friendly and generous, making it my go-to stall to satisfy my
-            chicken rice cravings.
+          announcement: Simple, no-frills charcoal roasted delight. Highly recommend their
+            roasted chicken rice—plump and succulent. The best part are the
+            friendly and generous hawkers, cementing  it as my go-to stall to
+            satisfy my chicken rice cravings.
           link_text: ""
           link_url: ""
         - title: Siang Kee Seafood Restaurant
