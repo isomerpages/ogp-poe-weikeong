@@ -8,7 +8,7 @@ permalink: /
 notification: "Warning: Do not browse when hungry"
 sections:
   - hero:
-      title: "Hi! I'm Wei Keong "
+      title: Hi! I'm Wei Keong
       subtitle: I love chicken (rice). Besides being really delicious, it is a
         versatile ingredient which is similar to one of my strengths, being
         adaptable to changes!
@@ -22,25 +22,24 @@ sections:
       announcement_items:
         - title: You He Roasted Delights
           date: 11 June 2024
-          announcement: Simple, no-frills roasted meats. Highly recommended is the roasted
+          announcement: Simple, no-frills roasted meats. Highly recommend their roasted
             chicken rice—plump and succulent. The best part is the hawkers are
-            really friendly, making it my go-to stall to satisfy my chicken rice
-            cravings.
+            really friendly and generous, making it my go-to stall to satisfy my
+            chicken rice cravings.
           link_text: ""
           link_url: ""
         - title: Siang Kee Seafood Restaurant
           date: 25 May 2024
           announcement: This seafood restaurant captures the charm of old-school hawker
-            style. Highly recommended is their butter crayfish, which is
-            enveloped in fragrant butter and crunchy cereal. The crayfish meat
-            is incredibly fresh, juicy, and tender, promising an epicurean
-            delight.
+            style. Highly recommend their butter crayfish, which is enveloped in
+            fragrant butter and crunchy cereal. The crayfish meat is incredibly
+            fresh, juicy, and tender, promising an epicurean delight.
           link_text: ""
           link_url: ""
         - title: London Fat Duck
           date: 11 May 2024
           announcement: '"Wagyu of ducks" cooked to perfection with crispy skin and meat
-            that melts in your mouth.'
+            which melts in your mouth.'
           link_text: ""
           link_url: ""
   - textcards:
