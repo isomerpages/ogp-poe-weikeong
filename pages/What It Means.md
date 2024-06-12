@@ -5,11 +5,11 @@ variant: tiptap
 description: List of Past and Present Prime Ministers of Singapore
 ---
 <blockquote>
-<h4><strong>Cool Fact:</strong> <br>There has only been 4 Prime Ministers of Singapore over a period of 60 years</h4>
-</blockquote>
-<p><u>List of Past and Current Prime Ministers of Singapore</u>
-</p>
+<h3><strong>Cool Fact:</strong> <br>There has only been 4 Prime Ministers of Singapore over a period of 60 years</h3>
 <p></p>
+</blockquote>
+<p><strong><u>List of Past and Current Prime Ministers of Singapore</u></strong>
+</p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -37,7 +37,7 @@ description: List of Past and Present Prime Ministers of Singapore
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/photo_lawrence_wong.png">
+<img style="width: 50%;" height="auto" width="100%" alt="Lawrence Wong" src="/images/photo_lawrence_wong.png">
 </div>
 </td>
 <td rowspan="1" colspan="2">
@@ -46,7 +46,7 @@ description: List of Past and Present Prime Ministers of Singapore
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p>2024 -</p>
+<p>2024 --</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -57,7 +57,7 @@ description: List of Past and Present Prime Ministers of Singapore
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Screenshot_2024_06_12_224951.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="Lee Hsien Loong" src="/images/Screenshot_2024_06_12_224951.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="2">
@@ -76,7 +76,7 @@ description: List of Past and Present Prime Ministers of Singapore
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Mr_GOH_Chok_Tong.png">
+<img style="width: 50%;" height="auto" width="100%" alt="Goh Chok Tong" src="/images/Mr_GOH_Chok_Tong.png">
 </div>
 </td>
 <td rowspan="1" colspan="2">
@@ -95,7 +95,7 @@ description: List of Past and Present Prime Ministers of Singapore
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Lee_Kuan_Yew.png">
+<img style="width: 50%;" height="auto" width="100%" alt="Lee Kuan Yew" src="/images/Lee_Kuan_Yew.png">
 </div>
 </td>
 <td rowspan="1" colspan="2">
@@ -107,7 +107,6 @@ description: List of Past and Present Prime Ministers of Singapore
 <p>1959 - 1990</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <p></p>
 <p>31 years</p>
 </td>
