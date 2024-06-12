@@ -5,13 +5,16 @@ variant: tiptap
 description: List of Past and Present Prime Ministers of Singapore
 ---
 <blockquote>
-<h3><strong>Cool Fact:</strong> <br>There has only been 4 Prime Ministers of Singapore over a period of 60 years</h3>
+<h4><strong>Cool Fact:</strong> <br>There has only been 4 Prime Ministers of Singapore over a period of 60 years</h4>
+</blockquote>
+<blockquote>
 <p></p>
 </blockquote>
 <p><strong><u>List of Past and Current Prime Ministers of Singapore</u></strong>
 </p>
-<table style="minWidth: 125px">
+<table style="minWidth: 150px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -26,7 +29,7 @@ description: List of Past and Present Prime Ministers of Singapore
 <th rowspan="1" colspan="2">
 <p>Name</p>
 </th>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="2">
 <p>Years Served</p>
 </th>
 <th rowspan="1" colspan="1">
@@ -44,13 +47,13 @@ description: List of Past and Present Prime Ministers of Singapore
 <p></p>
 <p>PM Lawrence Wong</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p></p>
-<p>2024 --</p>
+<p>2024 - Present</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p>(Currently Serving)</p>
+<p>Currently Serving</p>
 </td>
 </tr>
 <tr>
@@ -64,7 +67,7 @@ description: List of Past and Present Prime Ministers of Singapore
 <p></p>
 <p>Mr Lee Hsien Loong</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p></p>
 <p>2004 - 2024</p>
 </td>
@@ -83,7 +86,7 @@ description: List of Past and Present Prime Ministers of Singapore
 <p></p>
 <p>Mr Goh Chok Tong</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p></p>
 <p>1990 -2004</p>
 </td>
@@ -102,7 +105,7 @@ description: List of Past and Present Prime Ministers of Singapore
 <p></p>
 <p>Mr Lee Kuan Yew</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p></p>
 <p>1959 - 1990</p>
 </td>
@@ -113,13 +116,13 @@ description: List of Past and Present Prime Ministers of Singapore
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><sub>Source: </sub><a href="http://pmo.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><sub>pmo.gov.sg</sub></a>
+<p><sub>source: </sub><a href="http://pmo.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><sub>pmo.gov.sg</sub></a>
 </p>
 </td>
 <td rowspan="1" colspan="2">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
