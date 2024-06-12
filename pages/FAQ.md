@@ -40,7 +40,49 @@ skills to make a positive social impact.</p>
 enjoys tapping on his analytical skills and creativity to deliver impact
 and results.</p>
 <p></p>
+<blockquote>
+<p>What are Wei Keong's strengths?</p>
+</blockquote>
+<ol data-tight="true" class="tight">
+<li>
+<p>Growth Mindset: Through his entrepreneurship journey, Wei Keong has learnt
+that it is not merely the act of stating a business, it is the desire to
+challenge the status quo (where appropriate), creating solutions to problems,
+improving existing products and services, and most importantly, improving
+oneself through keeping an open mind, having self-awareness and self-reflection.</p>
 <p></p>
+</li>
+<li>
+<p>Teamwork: Having worked on hundreds of projects and experience running
+a startup, Wei Keong has honed his ability to work in teams though empathy
+and communicating with clarity and sincerity.</p>
+<p></p>
+</li>
+<li>
+<p>Creative and innovative: With a fertile mind and imagination, Wei Keong
+is adept at contributing ideas as well as building on other's ideas, from
+ideas for a business to marketing and planning birthday surprises.</p>
+</li>
+</ol>
+<p></p>
+<blockquote>
+<p>What are Wei Keong's weaknesses?</p>
+</blockquote>
+<ol data-tight="true" class="tight">
+<li>
+<p>Wei Keong may occasionally spend too much time obsessing over finer points
+of a project. Fortunately, he is aware of this issue and has been making
+a conscious effort to balance between the details and the big picture.</p>
+<p></p>
+</li>
+<li>
+<p>Chicken Rice</p>
 <p>
 <br>
 </p>
+</li>
+</ol>
+<p>
+<br>
+</p>
+<p></p>
