@@ -26,16 +26,16 @@ sections:
             roasted chicken rice—plump and succulent. The best part are the
             friendly and generous hawkers, cementing  it as my go-to stall to
             satisfy my chicken rice cravings.
-          link_text: Google Map
-          link_url: https://maps.app.goo.gl/7MLchpKLWwZcsz4F9
+          link_text: Social Media
+          link_url: https://www.instagram.com/youhecharcoal/
         - title: Siang Kee Seafood Restaurant
           date: 25 May 2024
           announcement: This seafood restaurant captures the charm of old-school hawker
             style. Highly recommend their butter crayfish, which is enveloped in
             fragrant butter and crunchy cereal. The crayfish meat is incredibly
             fresh, juicy, and tender, promising an epicurean delight.
-          link_text: Google Map
-          link_url: https://maps.app.goo.gl/AHP5uTSZoPE9EmJc6
+          link_text: Social Media
+          link_url: https://www.facebook.com/p/%E5%A4%A7%E9%A9%AC%E9%A6%99%E8%AE%B0%E6%B5%B7%E9%B2%9C%E9%A5%AD%E5%BA%97-Restoran-Siang-Kee-100076273183519/
         - title: London Fat Duck
           date: 11 May 2024
           announcement: Featuring Ireland's Silver Hill Duck, which has been described as
@@ -43,8 +43,8 @@ sections:
             fat content. Prepared by a skilled Chef, it is roasted to
             perfection, unveiling a glistening and crispy skin wrapped around
             succulent meat which melts in your mouth.
-          link_text: Website
-          link_url: https://www.londonfatduck.com.sg/gallery
+          link_text: Social Media
+          link_url: https://www.facebook.com/londonfatduck/
   - textcards:
       title: 3 Food Havens
       subtitle: Wei Keong Recommends
