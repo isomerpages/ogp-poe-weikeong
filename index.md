@@ -16,9 +16,9 @@ sections:
       button: My LinkedIn
       url: https://www.linkedin.com/in/wkgan/
   - announcements:
-      title: Three amazing food
+      title: Three food to tantalise your taste buds
       id: announcements
-      subtitle: wei keong's Recommendation
+      subtitle: wei keong Recommends
       announcement_items:
         - title: You He Charcoal Roasted Delights
           date: 11 June 2024
@@ -47,7 +47,7 @@ sections:
           link_url: ""
   - textcards:
       title: 3 Food Havens
-      subtitle: Wei Keong's Recommendation
+      subtitle: Wei Keong's Recommends
       id: textcards
       cards:
         - title: Westgate & JEM Shopping Malls
