@@ -1,7 +1,8 @@
 ---
 layout: homepage
 title: Wei Keong's Site
-description: An Isomer site of the Singapore Government
+description: Chicken rice, Food, Prime Minister Lawrence Wong, Senior Minister
+  Lee Hsien Loong speech and more
 image: /images/isomer-logo.svg
 permalink: /
 notification: "Warning: Do not browse when hungry"
