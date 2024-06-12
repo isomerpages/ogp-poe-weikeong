@@ -4,50 +4,12 @@ permalink: /what-it-means/
 variant: tiptap
 description: List of Past and Present Prime Ministers of Singapore
 ---
-<h4><strong>List of Past and Current Prime Ministers of Singapore</strong></h4>
-<p></p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Country</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Number of Prime Ministers since 1950s</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
+<blockquote>
+<p><strong>Cool Fact: </strong>There has only been 4 Prime Ministers of Singapore
+over a period of 60 years</p>
+</blockquote>
+<p><u>List of Past and Current Prime Ministers of Singapore</u>
+</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -86,6 +48,7 @@ description: List of Past and Present Prime Ministers of Singapore
 <p>2024 -</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <p>(Currently Serving)</p>
 </td>
 </tr>
@@ -152,13 +115,86 @@ description: List of Past and Present Prime Ministers of Singapore
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Credits: pmo.gov.sg</p>
+<p><sub>Credits: pmo.gov.sg</sub>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<blockquote>
+<p>How about other countries?</p>
+</blockquote>
+<p>4 Prime Ministers over 6 decades is a relatively low number especially
+when compared to countries such as Japan, the United Kingdom and Malaysia.</p>
+<p>Japan alone has seen 28 Prime Ministers within the same period, which
+is almost as many as Singapore, Malaysia and the United Kingdom combined!</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Country</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Number of Prime Ministers since 1960s</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>United Kingdom</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>16</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Malaysia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Japan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>28</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
