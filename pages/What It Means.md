@@ -4,7 +4,7 @@ permalink: /what-it-means/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Food is Life</strong></h4>
+<h4><strong>List of Past and Current Prime Ministers of Singapore</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -21,10 +21,10 @@ description: ""
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Food</p>
+<p>Years Served</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Cost</p>
+<p>Time in office</p>
 </th>
 </tr>
 <tr>
@@ -35,10 +35,10 @@ description: ""
 <p>Lawrence Wong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chicken Rice</p>
+<p>2024 -</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$4</p>
+<p>(Currently Serving)</p>
 </td>
 </tr>
 <tr>
@@ -52,10 +52,10 @@ description: ""
 <p>Lee Hsien Loong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2004 - 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>19 years</p>
 </td>
 </tr>
 <tr>
@@ -69,10 +69,10 @@ description: ""
 <p>Goh Chok Tong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1990 -2004</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>13 years</p>
 </td>
 </tr>
 <tr>
@@ -88,10 +88,10 @@ description: ""
 <p>Lee Kuan Yew</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Roasted Pork</p>
+<p>1959 - 1990</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$4</p>
+<p>31</p>
 </td>
 </tr>
 </tbody>
