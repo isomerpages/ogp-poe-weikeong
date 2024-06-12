@@ -43,11 +43,12 @@ impact and results.</p>
 </blockquote>
 <ol data-tight="true" class="tight">
 <li>
-<p>Growth Mindset: Through his entrepreneurship journey, Wei Keong has learnt
-that it is not merely the act of stating a business, it is the desire to
-challenge the status quo (where appropriate), creating solutions to problems,
-improving existing products and services, and most importantly, improving
-oneself through keeping an open mind, having self-awareness and self-reflection.</p>
+<p>Adaptable and Growth Mindset: Through his entrepreneurship journey, Wei
+Keong has learnt that it is not merely the act of stating a business, it
+is the desire to challenge the status quo (where appropriate), creating
+solutions to problems, improving existing products and services, and most
+importantly, improving oneself through keeping an open mind, having self-awareness
+and self-reflection.</p>
 <p></p>
 </li>
 <li>
