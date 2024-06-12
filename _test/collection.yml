@@ -2,5 +2,6 @@ collections:
   test:
     output: true
     order:
+      - Report Vulnerability.md
       - Privacy Statement.md
       - FAQ.md
