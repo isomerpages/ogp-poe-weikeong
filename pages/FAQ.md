@@ -34,9 +34,9 @@ back to the community through volunteering as a mentor for at-risk youth,
 the underprivileged and as a case writer during the (MPS) Meet-the-People
 Sessions where he leverages his problem-solving, analytical and communication
 skills to make a positive social impact.</p>
-<p>Overall, Wei Keong is adaptable like a chicken, possess a growth mindset,
-enjoys tapping on his analytical skills and creativity to deliver impact
-and results.</p>
+<p>Overall, Wei Keong is adaptable like a chicken dish, possess a growth
+mindset, enjoys tapping on his analytical skills and creativity to deliver
+impact and results.</p>
 <p></p>
 <blockquote>
 <p>What are Wei Keong's strengths?</p>
