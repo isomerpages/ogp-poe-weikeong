@@ -14,14 +14,10 @@ sections:
       background: /images/singapore_hainanese_roasted_chicken_rice.jpg
       button: My LinkedIn
       url: https://www.linkedin.com/in/wkgan/
-      key_highlights:
-        - title: Singapore Cuisine
-          description: Important highlight A is important
-          url: ""
   - announcements:
-      title: Three amazing food reccomondation
+      title: Three amazing food
       id: announcements
-      subtitle: wei keong's
+      subtitle: wei keong's Recommendation
       announcement_items:
         - title: You He Roasted Delights
           date: 11 June 2024
@@ -33,9 +29,7 @@ sections:
           link_url: ""
         - title: Siang Kee Seafood Restaurant
           date: 25 May 2024
-          announcement: >-
-            
-            This seafood restaurant captures the charm of old-school hawker
+          announcement: This seafood restaurant captures the charm of old-school hawker
             style. Highly recommended is their butter crayfish, which is
             enveloped in fragrant butter and crunchy cereal. The crayfish meat
             is incredibly fresh, juicy, and tender, promising an epicurean
@@ -50,9 +44,8 @@ sections:
           link_url: ""
   - textcards:
       title: 3 Food Havens
-      subtitle: Wei Keong's
+      subtitle: Wei Keong's Recommendation
       id: textcards
-      description: Recommendation
       cards:
         - title: Westgate & JEM Shopping Malls
           description: |-
