@@ -82,19 +82,22 @@ description: List of Past and Present Prime Ministers of Singapore
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lee_Kuan_Yew.png">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Prime_Minister_Lee_Kuan_Yew_of_Singapore.jpg">
+</div>
 <p>Mr Lee Kuan Yew</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+<p></p>
 <p>1959 - 1990</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+<p></p>
 <p>31 years</p>
 </td>
 </tr>
