@@ -32,7 +32,7 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lawrence Wong</p>
+<p>PM Lawrence Wong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2024 -</p>
@@ -49,7 +49,7 @@ description: ""
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lee Hsien Loong</p>
+<p>Mr Lee Hsien Loong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2004 - 2024</p>
@@ -66,7 +66,7 @@ description: ""
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Goh Chok Tong</p>
+<p>Mr Goh Chok Tong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1990 -2004</p>
@@ -85,13 +85,27 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <p></p>
-<p>Lee Kuan Yew</p>
+<p>Mr Lee Kuan Yew</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1959 - 1990</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31</p>
+<p>31 years</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
