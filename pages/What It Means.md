@@ -109,7 +109,7 @@ description: List of Past and Present Prime Ministers of Singapore
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Credits: pmo.gov.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
