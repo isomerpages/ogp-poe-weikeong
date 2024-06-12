@@ -7,7 +7,7 @@ contacts:
   - content:
       - phone: +65 8533 6523
       - email: wkganmail@gmail.com
-      - other: Any text here <i>including HTML</i>
+      - other: https://www.linkedin.com/in/wkgan/
     title: For Interviews
 feedback: ""
 ---
