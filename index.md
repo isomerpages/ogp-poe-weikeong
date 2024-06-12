@@ -47,7 +47,7 @@ sections:
           link_url: ""
   - textcards:
       title: 3 Food Havens
-      subtitle: Wei Keong's Recommends
+      subtitle: Wei Keong Recommends
       id: textcards
       cards:
         - title: Westgate & JEM Shopping Malls
