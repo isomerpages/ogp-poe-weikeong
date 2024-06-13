@@ -16,11 +16,12 @@ he co founded a startup in the e-commerce and fashion space called Shareship.
 It was founded to tackle the gripe of many online shoppers, high shipping
 fees which in turn contributed to high cart drop out rate faced by e-tailers.
 He led cross functional collaboration from marketing to product and business
-development and&nbsp; marketing activities such as online and offline marketing,
-customer acquisition and loyalty strategy. The startup processed 500 orders
-from 160 customers worth $6000 in Gross Merchandise Value. The startup
-also won 3 competitions worth a combined $22000 in cash prizes thanks to
-a pitch deck which effectively communicated the startup's value propositions.</p>
+development and&nbsp;marketing activities such as online and offline marketing,
+customer acquisition and loyalty strategy. Overall, ShareShip processed
+500 orders from 160 customers worth $6000 in Gross Merchandise Value. The
+startup also won 3 competitions worth a combined $22000 in cash prizes
+thanks to a pitch deck which effectively communicated the startup's value
+propositions.</p>
 <p>Outside of his professional endeavors, he is deeply committed to giving
 back to the community through volunteering as a mentor for at-risk youth,
 the underprivileged and as a case writer during the (MPS) Meet-the-People
@@ -47,7 +48,7 @@ reading resources online and watching YouTube videos.</p>
 </li>
 <li>
 <p>Teamwork: Having worked on hundreds of projects and experience running
-a startup, Wei Keong has honed his ability to work in teams though empathy
+a startup, Wei Keong has honed his ability to work in teams through empathy
 and communicating with clarity and sincerity.</p>
 <p></p>
 </li>
