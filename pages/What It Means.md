@@ -135,7 +135,7 @@ period of 60 years</p>
 </table>
 <p></p>
 <blockquote>
-<p>How about other countries?</p>
+<p>What about other countries?</p>
 </blockquote>
 <p>4 Prime Ministers over 6 decades is a relatively low number especially
 when compared to countries such as Japan, the United Kingdom and Malaysia.</p>
