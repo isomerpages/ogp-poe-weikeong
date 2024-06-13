@@ -42,9 +42,8 @@ the act of stating a business, it is the desire to challenge the status
 quo (where appropriate), creating solutions to problems, improving existing
 products and services, and most importantly, improving oneself by keeping
 an open mind, having self-awareness and self-reflection. For instance,
-he learnt everything about starting a business from scratch and built
-<a href="http://ShareShip.co" rel="noopener noreferrer nofollow" target="_blank">ShareShip.co</a>through reading resources online and watching YouTube
-videos.</p>
+he learnt everything about starting a business from scratch and created
+a website through reading resources online and watching YouTube videos.</p>
 <p></p>
 </li>
 <li>
