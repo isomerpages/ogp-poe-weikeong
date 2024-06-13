@@ -55,6 +55,7 @@ and communicating with clarity and sincerity.</p>
 <p>Creative and innovative: With a fertile mind and imagination, Wei Keong
 is adept at contributing ideas as well as building on other's ideas, from
 ideas for a business to marketing and planning birthday surprises.</p>
+<p></p>
 </li>
 </ol>
 <p></p>
