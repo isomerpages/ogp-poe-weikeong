@@ -18,11 +18,9 @@ fees which in turn contributed to high cart drop out rate faced by e-tailers.
 He led cross functional collaboration from marketing to product and business
 development and&nbsp; marketing activities such as online and offline marketing,
 customer acquisition and loyalty strategy. The startup processed 500 orders
-from 160 customers worth $6000 in Gross Merchandise Value. He is also highly
-resourceful and adaptable as seen from how <a href="http://ShareShip.co" rel="noopener noreferrer nofollow" target="_blank">ShareShip.co</a> was built through reading resources
-online and watching YouTube videos. The startup also won 3 competitions
-worth a combined $22000 in cash prizes thanks to a pitch deck which effectively
-communicated the startup's value propositions.</p>
+from 160 customers worth $6000 in Gross Merchandise Value. The startup
+also won 3 competitions worth a combined $22000 in cash prizes thanks to
+a pitch deck which effectively communicated the startup's value propositions.</p>
 <p>He also has experience in the areas of marketing and business development
 at other organisations where he handled duties such as partnership activities
 with leading companies like CapitaLand, Shopee and coordinating with design
@@ -34,7 +32,7 @@ back to the community through volunteering as a mentor for at-risk youth,
 the underprivileged and as a case writer during the (MPS) Meet-the-People
 Sessions where he leverages his problem-solving, analytical and communication
 skills to make a positive social impact.</p>
-<p>Overall, Wei Keong is adaptable like a chicken dish, possess a growth
+<p>Overall, Wei Keong is adaptable like a chicken dish, possesses a growth
 mindset, enjoys tapping on his analytical skills and creativity to deliver
 impact and results.</p>
 <p></p>
@@ -44,11 +42,13 @@ impact and results.</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Adaptable and Growth Mindset: Through his entrepreneurship journey, Wei
-Keong has learnt that it is not merely the act of stating a business, it
-is the desire to challenge the status quo (where appropriate), creating
-solutions to problems, improving existing products and services, and most
-importantly, improving oneself through keeping an open mind, having self-awareness
-and self-reflection.</p>
+Keong has learnt the true essence of entrepreneurship. It is not merely
+the act of stating a business, it is the desire to challenge the status
+quo (where appropriate), creating solutions to problems, improving existing
+products and services, and most importantly, improving oneself through
+keeping an open mind, having self-awareness and self-reflection. For instance,
+he learnt everything about starting a business from scratch built <a href="http://ShareShip.co" rel="noopener noreferrer nofollow" target="_blank">ShareShip.co</a> through
+reading resources online and watching YouTube videos.</p>
 <p></p>
 </li>
 <li>
