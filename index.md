@@ -23,8 +23,8 @@ sections:
         - title: You He Charcoal Roasted Delights
           date: 11 June 2024
           announcement: Simple, no-frills charcoal roasted delight. Highly recommend their
-            roasted chicken rice—plump and succulent. The best part are the
-            friendly and generous hawkers, cementing  it as my go-to stall to
+            roasted chicken rice—plump and succulent. The best part is the
+            friendly and generous hawkers, cementing it as my go-to stall to
             satisfy my chicken rice cravings.
           link_text: Social Media
           link_url: https://www.instagram.com/youhecharcoal/
