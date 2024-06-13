@@ -12,7 +12,7 @@ sections:
       subtitle: "I love chicken (rice). Not only is it incredibly delicious, but it's
         also a versatile ingredient, much like one of my strengths: adaptability
         to change!"
-      background: /images/photo1718279197.jpg
+      background: /images/photo1718280264.jpg
       button: My LinkedIn
       url: https://www.linkedin.com/in/wkgan/
   - announcements:
