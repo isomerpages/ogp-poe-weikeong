@@ -12,7 +12,7 @@ sections:
       subtitle: "I love chicken (rice). Not only is it incredibly delicious, but it's
         also a versatile ingredient, much like one of my strengths: adaptability
         to change!"
-      background: /images/Chicken_Rice.jpg
+      background: /images/photo1718279197.jpg
       button: My LinkedIn
       url: https://www.linkedin.com/in/wkgan/
   - announcements:
@@ -51,9 +51,8 @@ sections:
       id: textcards
       cards:
         - title: Westgate & JEM Shopping Malls
-          description: |-
-            2 interconnected malls with
-            100+ restaurants from fast food to casual dining!
+          description: 2 interconnected malls with 100+ restaurants from fast food to
+            casual dining!
           linktext: Google Map
           url: https://maps.app.goo.gl/SxU3ycxmymqL6KqD8
         - title: Beauty World Food Centre
